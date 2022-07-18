@@ -1,4 +1,3 @@
-from calendar import c
 from django import forms
 from django.core.mail.message import EmailMessage
 
